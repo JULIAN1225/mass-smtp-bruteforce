@@ -864,6 +864,10 @@ $password_array = array(
 'apple',
 'master',
 'daisy',
+'Saraibuckner143'
+Sarairai
+Saraiiiiiii77
+Papailoveyou143
 'cool',
 'nancy',
 'yellow',
